@@ -1,3 +1,3 @@
-# WinLockState Artemis plugin
-
-### Get current lock state of Windows workstation
+# Random Artemis plugins
+## WinLockState
+- Get current lock state of Windows workstation
