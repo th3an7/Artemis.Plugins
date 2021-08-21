@@ -1,0 +1,10 @@
+{
+  "Guid": "42dd7d5f-9db0-484e-ad96-24a15beec2c8",
+  "Name": "WinLockState",
+  "Description": "Get Windows workstation lock state",
+  "Author": "th3ant",
+  "Website": "https://github.com/th3an7/",
+  "Repository": "https://github.com/th3an7/Artemis.Plugins",
+  "Version": "1.0.0.0",
+  "Main": "WinLockState.dll"
+}
