@@ -8,8 +8,7 @@
     <Platforms>x64</Platforms>
     <GenerateDependencyFile>False</GenerateDependencyFile>
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
-    <EnableDefaultItems>false</EnableDefaultItems>
-    <PowerShell># 2&gt;nul || type %~df0|find /v "setlocal"|find /v "errorlevel"|powershell.exe -noninteractive -&amp; exit %errorlevel% || #</PowerShell>
+    <CopyLocalLockFileAssemblies>True</CopyLocalLockFileAssemblies>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
